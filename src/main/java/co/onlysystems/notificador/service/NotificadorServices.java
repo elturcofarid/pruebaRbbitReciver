@@ -7,8 +7,6 @@ import com.google.gson.Gson;
 
 import co.onlysystems.email.service.EmailBody;
 import co.onlysystems.email.service.EmailService;
-import co.onlysystems.sms.model.Actuacion;
-import co.onlysystems.sms.model.Proceso;
 import kong.unirest.HttpResponse;
 import kong.unirest.Unirest;
 
